@@ -31,5 +31,5 @@ Built an interactive HR analytics dashboard to explore workforce data and identi
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [www.linkedin.com/in/ sakshi-agrawal-98137b352]
+- 💼 LinkedIn: [www.linkedin.com/in/sakshi-agrawal-98137b352]
 - 🌐 Portfolio: [Add your Portfolio URL here]
